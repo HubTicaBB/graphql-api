@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HubTicaBB/graphql-api/issues"
   },
-  "homepage": "https://github.com/HubTicaBB/graphql-api#readme"
+  "homepage": "https://github.com/HubTicaBB/graphql-api#readme",
+  "dependencies": {
+    "apollo-server": "^2.24.0"
+  }
 }
