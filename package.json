@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/HubTicaBB/graphql-api#readme",
   "dependencies": {
-    "apollo-server": "^2.24.0"
+    "apollo-server": "^2.24.0",
+    "nodemon": "^2.0.7"
   }
 }
